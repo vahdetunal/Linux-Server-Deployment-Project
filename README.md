@@ -45,6 +45,9 @@
 - Allow the same ports on lightsail firewall from
 https://lightsail.aws.amazon.com/ls/webapp/eu-central-1/instances/vunalaws/networking
 
+- SSH based login is already enforced by Lightsail. Therefore, additional
+  configurations for it are not necessary.
+
 
 ## Create Grader Account
 
